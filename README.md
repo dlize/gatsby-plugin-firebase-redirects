@@ -20,14 +20,14 @@ It will add redirects to the `firebase.json` file like this:
 ```json
 {
   "hosting": {
-    // ..
+    ...
     "redirects": [
       {
         "source": "XXX",
         "destination": "YYY",
         "type": 123
       }
-      // ..
+      ...
     ]
   }
 }

@@ -1,0 +1,20 @@
+{
+    "name": "dlize-gatsby-plugin-firebase-redirects",
+    "version": "1.0.0",
+    "description": "Gatsby plugin to render redirects into a firebase.json file",
+    "main": "gatsby-node.js",
+    "author": "dlize Digital Agency https://www.dlize.de/",
+    "license": "MIT",
+    "keywords": [
+        "gatsby",
+        "gatsby-plugin",
+        "redirects",
+        "firebase",
+        "firebase-hosting"
+    ],
+    "dependencies": {
+        "fs-extra": "^7.0.0",
+        "lodash": "^4.17.11",
+        "path": "^0.12.7"
+    }
+}

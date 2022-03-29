@@ -13,7 +13,7 @@ every time the Gatsby site is built.
 
 ## Notes
 
-The plugin doesn't accept any addition configuration currently.
+The plugin doesn't accept any additional configuration currently.
 
 It will add redirects to the `firebase.json` file like this:
 

@@ -8,7 +8,7 @@ exports.onPostBuild = ({ store }) => {
 
     const { redirects, program } = store.getState();
 
-    // The path where we want to write the file `./firebase.json`
+    // The path to write the file `firebase.json`
     const firebaseConfigPath = path.join(program.directory, "./firebase.json");
 
     // Return a promise chain
